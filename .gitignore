@@ -1,0 +1,4 @@
+project_env
+__pycache__
+flaskproject/__pycache__
+flaskproject/.ipynb_checkpoints
