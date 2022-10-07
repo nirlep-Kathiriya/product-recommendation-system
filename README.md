@@ -45,4 +45,4 @@
 
 - Test the project :
 
-> Go to localhost:9999 in your browser.
+> Go to http://127.0.0.1:5000/ in your browser.
